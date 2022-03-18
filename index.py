@@ -1,1 +1,1 @@
-print("Hallo Welt, Ich bin Peter Perez")
+print("Hallo Welt, Ich bin Alfred Dus")
